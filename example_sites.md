@@ -21,3 +21,7 @@ This site has many more tabs and much smaller pages - no scrolling endlessly to 
 I'm especially impressed by her "writing history for the future" section. Obviously the site has not been updated in several years, but I like the idea of a call to action for general readers. I overall prefer Sweet's content due to the additional projects/inclusion of sources, but this site is also an example I want to follow. 
 
 My one critique is the Events tab - as can be seen by the fact that several 2021 events are listed as "upcoming", it seems like a feature that requires more attention than one might want to put in. I think some kind of "news" section used like a blog (look, another Fitzpatrick suggestion) might be an easier way to achieve that without having to go back into the code after every event.
+
+# Additional Research
+
+I actually struggled to find two sites from historians. I knew Sweet's because I'd already looked at it, but got stuck looking for the second. I searched a number of historians I know of and admire and they don't have sites. Zabin was literally last on my list before I started searching "famous historians" out of desperation. It really drove home how under-utilized these tools are - the people I know of have great projects or important interventions, but if you search them the best you get is college pages and newspaper articles. There's no central repository of their work from their own perspective.
